@@ -1,6 +1,6 @@
 Este es una archivo donde se muestran
 los participantes al club de usuarios del
-mes de abril de 2021.
+mes de mayo de 2021.
 1. José José
 2. Pedro Infante
 3. Luis Fonsi
@@ -8,3 +8,4 @@ mes de abril de 2021.
 5. Manuel Mijares
 6. Luis Miguel
 7. Dua Lipa de posadas
+8. Vicente Fernández
