@@ -1,5 +1,5 @@
-Este es una archivo donde se muestran
-los participantes al club de usuarios del
+Este es un archivo donde se listan
+los participantes en el club de usuarios del
 mes de mayo de 2021.
 1. Jose Jose
 2. Pedro Infante
